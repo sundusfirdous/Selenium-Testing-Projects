@@ -1,0 +1,6 @@
+2024-03-16 18:15:28,276 [main] INFO Log4JLogging - Entered Email
+2024-03-16 18:15:28,367 [main] INFO Log4JLogging - Clicked Password
+2024-03-16 18:15:28,459 [main] INFO Log4JLogging - Entered Password
+2024-03-16 18:15:28,497 [main] INFO Log4JLogging - Fetched Facebook Text
+2024-03-16 18:15:31,570 [main] INFO Log4JLogging - Cleared EmailOrPhone
+2024-03-16 18:15:37,630 [main] INFO Log4JLogging - Cleared Password
