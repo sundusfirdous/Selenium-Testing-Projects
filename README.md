@@ -16,7 +16,7 @@
 <li>Cloud Grids</li>
 <li>SonarLint, Java > 8</li>
 <li>Run Local and on Selenoid Integration</li>
-    <img src="C:\Users\HP\OneDrive\Pictures\Screenshots">
+    <img src="https://github.com/sundusfirdous/Selenium-Testing-Projects/blob/main/VWOFramework/Screenshot%20(24).png">
 <h1>Software Testing Projects</h1>
 
 <p>This repository contains a list of all the projects completed during my manual testing training. The projects were completed using a combination of manual testing techniques and test management tools.</p>
