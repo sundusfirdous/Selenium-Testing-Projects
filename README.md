@@ -17,6 +17,7 @@
 <li>SonarLint, Java > 8</li>
 <li>Run Local and on Selenoid Integration</li>
     <img src="https://github.com/sundusfirdous/Selenium-Testing-Projects/blob/main/VWOFramework/Screenshot%20(24).png">
+   <p> mvn test -Dsurefire.suiteXmlFiles=testng.xml</p>
    <img src="https://github.com/sundusfirdous/Selenium-Testing-Projects/blob/main/VWOFramework/Screenshot%20(25).png">
 <h1>Software Testing Projects</h1>
 
