@@ -4,6 +4,19 @@
 
 </head>
 <body>
+<h1>Selenium Automation Framework</h1>
+  <ul>
+    <li>Java, Selenium, TestNG</li>
+<li>Maven, AssertJ, POM</li>
+<li>Thread Local Support → Thread Safety</li>
+<li>Allure Report</li>
+<li>Excel Sheet for Test Data → Data Provider</li>
+<li>Read the username and password from Properties-</li>
+<li>TestNG, @Test, Before and After Method.</li>
+<li>Cloud Grids</li>
+<li>SonarLint, Java > 8</li>
+<li>Run Local and on Selenoid Integration</li>
+    <img src="C:\Users\HP\OneDrive\Pictures\Screenshots">
 <h1>Software Testing Projects</h1>
 
 <p>This repository contains a list of all the projects completed during my manual testing training. The projects were completed using a combination of manual testing techniques and test management tools.</p>
