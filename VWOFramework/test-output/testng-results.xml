@@ -2,31 +2,31 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-16T18:15:13 IST" name="Default suite" finished-at="2024-03-16T18:15:42 IST" duration-ms="29816">
+  <suite started-at="2024-03-17T17:02:45 IST" name="Default suite" finished-at="2024-03-17T17:03:03 IST" duration-ms="17891">
     <groups>
     </groups>
-    <test started-at="2024-03-16T18:15:13 IST" name="Default test" finished-at="2024-03-16T18:15:42 IST" duration-ms="29816">
-      <class name="com.facebook.tests.LoginTest">
-        <test-method signature="loginTest()[pri:0, instance:com.facebook.tests.LoginTest@1de76cc7]" started-at="2024-03-16T18:15:13 IST" name="loginTest" finished-at="2024-03-16T18:15:40 IST" duration-ms="27505" status="PASS">
+    <test started-at="2024-03-17T17:02:45 IST" name="Default test" finished-at="2024-03-17T17:03:03 IST" duration-ms="17891">
+      <class name="com.vwo.tests.LoginTest">
+        <test-method signature="loginTest()[pri:0, instance:com.vwo.tests.LoginTest@2421cc4]" started-at="2024-03-17T17:02:45 IST" name="loginTest" finished-at="2024-03-17T17:03:01 IST" duration-ms="15586" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="takeScreeshot(org.testng.ITestResult)[pri:0, instance:com.facebook.tests.LoginTest@1de76cc7]" started-at="2024-03-16T18:15:40 IST" name="takeScreeshot" finished-at="2024-03-16T18:15:42 IST" duration-ms="2156" status="PASS">
+        <test-method is-config="true" signature="takeScreeshot(org.testng.ITestResult)[pri:0, instance:com.vwo.tests.LoginTest@2421cc4]" started-at="2024-03-17T17:03:01 IST" name="takeScreeshot" finished-at="2024-03-17T17:03:03 IST" duration-ms="2094" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=loginTest status=SUCCESS method=LoginTest.loginTest()[pri:0, instance:com.facebook.tests.LoginTest@1de76cc7] output={null}]]]>
+                <![CDATA[[TestResult name=loginTest status=SUCCESS method=LoginTest.loginTest()[pri:0, instance:com.vwo.tests.LoginTest@2421cc4] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- takeScreeshot -->
-        <test-method is-config="true" signature="closeLoginPage()[pri:0, instance:com.facebook.tests.LoginTest@1de76cc7]" started-at="2024-03-16T18:15:42 IST" name="closeLoginPage" finished-at="2024-03-16T18:15:42 IST" duration-ms="117" status="PASS">
+        <test-method is-config="true" signature="closeLoginPage()[pri:0, instance:com.vwo.tests.LoginTest@2421cc4]" started-at="2024-03-17T17:03:03 IST" name="closeLoginPage" finished-at="2024-03-17T17:03:03 IST" duration-ms="109" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeLoginPage -->
-      </class> <!-- com.facebook.tests.LoginTest -->
+      </class> <!-- com.vwo.tests.LoginTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

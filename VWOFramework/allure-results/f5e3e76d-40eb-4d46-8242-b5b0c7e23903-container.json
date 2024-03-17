@@ -1,0 +1,1 @@
+{"uuid":"f5e3e76d-40eb-4d46-8242-b5b0c7e23903","name":"com.vwo.tests.LoginTest","children":["a29cd5bd-4f67-4908-b61d-59afeba5dc2a"],"befores":[],"afters":[{"name":"closeLoginPage","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1710675114020,"stop":1710675114195}],"start":1710675100938,"stop":1710675114243}
