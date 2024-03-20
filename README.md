@@ -80,7 +80,7 @@
 <li>Test Metrics</li>
 
 </ul>
-<h1>Project1</h1>
+<h1>Project1 - OpenCart</h1>
 <ul>
 <li>Test Plan</li>
 <li>Test Cases</li>
@@ -90,7 +90,7 @@
 <li>Test Metrics</li>
 </ul>
 
-<h1>Project2</h1>
+<h1>Project2 - OrangeHRM</h1>
 <ul>
 <li>Test Plan</li>
 <li>Test Cases</li>
@@ -100,7 +100,7 @@
 <li>Test Metrics</li>
 </ul>
 
-<h1>Project3</h1>
+<h1>Project3 - TechPanda</h1>
 <ul>
 <li>Test Plan</li>
 <li>Test Cases</li>
@@ -110,7 +110,7 @@
 <li>Test Metrics</li>
 
 </ul>
-<h1>Project4</h1>
+<h1>Project4 - VWO</h1>
 <ul>
 <li>Test Plan</li>
 <li>Test Cases</li>
