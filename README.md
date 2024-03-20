@@ -48,7 +48,7 @@
     <td>Maven, Java, Selenium</td>
   </tr>
   <tr>
-    <td>Project 4 - VWOFramework</td>
+    <td>Project 4 - VWO</td>
     <td>Tested a web application for functionality and usability.</td>
     <td>JIRA, Selenium, Maven, Java, POM</td>
 </tr>
