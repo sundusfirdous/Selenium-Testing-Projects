@@ -33,24 +33,24 @@
     <th>Tools Used</th>
   </tr>
   <tr>
-    <td>Project 1</td>
+    <td>Project 1 - OpenCart</td>
     <td>Tested a web application for functionality and usability.</td>
-    <td>JIRA, Selenium, TestRail</td>
+    <td>JIRA, Selenium, Maven</td>
   </tr>
   <tr>
-    <td>Project 2</td>
+    <td>Project 2 - OrangeHRM</td>
     <td>Tested a mobile application for compatibility across different devices.</td>
     <td>Appium, TestLink</td>
   </tr>
   <tr>
-    <td>Project 3</td>
+    <td>Project 3 - TechPanda</td>
     <td>Tested a desktop application for security vulnerabilities.</td>
-    <td>Burp Suite, Nessus, ZAP</td>
+    <td>Maven, Java, Selenium</td>
   </tr>
   <tr>
-    <td>Project 4</td>
+    <td>Project 4 - VWO</td>
     <td>Tested a web application for functionality and usability.</td>
-    <td>JIRA, Selenium, TestRail</td>
+    <td>JIRA, Selenium, Maven, Java, POM</td>
 </tr>
 </table>
 
@@ -80,7 +80,7 @@
 <li>Test Metrics</li>
 
 </ul>
-<h1>Project1</h1>
+<h1>Project1 - OpenCart</h1>
 <ul>
 <li>Test Plan</li>
 <li>Test Cases</li>
@@ -90,7 +90,7 @@
 <li>Test Metrics</li>
 </ul>
 
-<h1>Project2</h1>
+<h1>Project2 - OrangeHRM</h1>
 <ul>
 <li>Test Plan</li>
 <li>Test Cases</li>
@@ -100,7 +100,7 @@
 <li>Test Metrics</li>
 </ul>
 
-<h1>Project3</h1>
+<h1>Project3 - TechPanda</h1>
 <ul>
 <li>Test Plan</li>
 <li>Test Cases</li>
@@ -110,7 +110,7 @@
 <li>Test Metrics</li>
 
 </ul>
-<h1>Project4</h1>
+<h1>Project4 - VWO</h1>
 <ul>
 <li>Test Plan</li>
 <li>Test Cases</li>
